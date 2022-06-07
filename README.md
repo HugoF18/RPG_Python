@@ -8,13 +8,13 @@ pygame
 
 Attention le code ne fonctionne qu’à partir de python 3.9
 
-Mac:
+# Mac:
 
 python3 -m pip install pytmx
 python3 -m pip install pyscroll
 python3 -m pip install pygame
 
-Windows:
+# Windows:
 
 pip install pytmx
 pip install pyscroll
