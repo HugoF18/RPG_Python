@@ -3,7 +3,9 @@ Ceci est un projet que nous avons du faire en début d'année
 pour que le code fonctionne il faut installer via les commandes suivante les extensions :
 
 PyTMX
+
 pyscroll
+
 pygame
 
 Attention le code ne fonctionne qu’à partir de python 3.9
