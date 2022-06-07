@@ -8,7 +8,7 @@ pyscroll
 
 pygame
 
-Attention le code ne fonctionne qu’à partir de python 3.9
+# ⚠︎Attention le code ne fonctionne qu’à partir de python 3.9⚠︎
 
 # Mac:
 
